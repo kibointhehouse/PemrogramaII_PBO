@@ -1,0 +1,7 @@
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\Pertemuan2\praktikum\P2_1_7142252\P2_1_7142252\obj\Debug\P2_1_7142252.csproj.AssemblyReference.cache
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\Pertemuan2\praktikum\P2_1_7142252\P2_1_7142252\obj\Debug\P2_1_7142252.csproj.CoreCompileInputs.cache
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\Pertemuan2\praktikum\P2_1_7142252\P2_1_7142252\bin\Debug\P2_1_7142252.exe.config
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\Pertemuan2\praktikum\P2_1_7142252\P2_1_7142252\bin\Debug\P2_1_7142252.exe
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\Pertemuan2\praktikum\P2_1_7142252\P2_1_7142252\bin\Debug\P2_1_7142252.pdb
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\Pertemuan2\praktikum\P2_1_7142252\P2_1_7142252\obj\Debug\P2_1_7142252.exe
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\Pertemuan2\praktikum\P2_1_7142252\P2_1_7142252\obj\Debug\P2_1_7142252.pdb

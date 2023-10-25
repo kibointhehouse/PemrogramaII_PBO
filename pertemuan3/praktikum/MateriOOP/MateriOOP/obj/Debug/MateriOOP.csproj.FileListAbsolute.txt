@@ -1,0 +1,7 @@
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\pertemuan3\praktikum\MateriOOP\MateriOOP\bin\Debug\MateriOOP.exe.config
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\pertemuan3\praktikum\MateriOOP\MateriOOP\bin\Debug\MateriOOP.exe
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\pertemuan3\praktikum\MateriOOP\MateriOOP\bin\Debug\MateriOOP.pdb
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\pertemuan3\praktikum\MateriOOP\MateriOOP\obj\Debug\MateriOOP.csproj.AssemblyReference.cache
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\pertemuan3\praktikum\MateriOOP\MateriOOP\obj\Debug\MateriOOP.csproj.CoreCompileInputs.cache
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\pertemuan3\praktikum\MateriOOP\MateriOOP\obj\Debug\MateriOOP.exe
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\pertemuan3\praktikum\MateriOOP\MateriOOP\obj\Debug\MateriOOP.pdb
