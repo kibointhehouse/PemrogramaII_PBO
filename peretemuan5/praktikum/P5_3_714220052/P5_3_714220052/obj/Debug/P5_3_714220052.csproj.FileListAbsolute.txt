@@ -1,0 +1,10 @@
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\peretemuan5\praktikum\P5_3_714220052\P5_3_714220052\bin\Debug\P5_3_714220052.exe.config
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\peretemuan5\praktikum\P5_3_714220052\P5_3_714220052\bin\Debug\P5_3_714220052.exe
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\peretemuan5\praktikum\P5_3_714220052\P5_3_714220052\bin\Debug\P5_3_714220052.pdb
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\peretemuan5\praktikum\P5_3_714220052\P5_3_714220052\obj\Debug\P5_3_714220052.csproj.AssemblyReference.cache
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\peretemuan5\praktikum\P5_3_714220052\P5_3_714220052\obj\Debug\P5_3_714220052.Form1.resources
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\peretemuan5\praktikum\P5_3_714220052\P5_3_714220052\obj\Debug\P5_3_714220052.Properties.Resources.resources
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\peretemuan5\praktikum\P5_3_714220052\P5_3_714220052\obj\Debug\P5_3_714220052.csproj.GenerateResource.cache
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\peretemuan5\praktikum\P5_3_714220052\P5_3_714220052\obj\Debug\P5_3_714220052.csproj.CoreCompileInputs.cache
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\peretemuan5\praktikum\P5_3_714220052\P5_3_714220052\obj\Debug\P5_3_714220052.exe
+C:\Users\ARDIAN NOVAL R\tugastugas\PemrogramanII_PBO\peretemuan5\praktikum\P5_3_714220052\P5_3_714220052\obj\Debug\P5_3_714220052.pdb
